@@ -7,3 +7,13 @@ D:\Eddy\Estudios 2022\7 Cuatrimestre\Progra Avanzada WEb\ProyectoFinal\Base\Back
 D:\Eddy\Estudios 2022\7 Cuatrimestre\Progra Avanzada WEb\ProyectoFinal\Base\BackEnd\BE.DAL.DO\obj\Debug\netcoreapp3.1\BE.DAL.DO.csproj.CoreCompileInputs.cache
 D:\Eddy\Estudios 2022\7 Cuatrimestre\Progra Avanzada WEb\ProyectoFinal\Base\BackEnd\BE.DAL.DO\obj\Debug\netcoreapp3.1\BE.DAL.DO.dll
 D:\Eddy\Estudios 2022\7 Cuatrimestre\Progra Avanzada WEb\ProyectoFinal\Base\BackEnd\BE.DAL.DO\obj\Debug\netcoreapp3.1\BE.DAL.DO.pdb
+C:\Users\sergi\Desktop\progra avanzada\SistemaBombeoArcor_PrograAvanzadaWeb\BackEnd\BE.DAL.DO\bin\Debug\netcoreapp3.1\BE.DAL.DO.deps.json
+C:\Users\sergi\Desktop\progra avanzada\SistemaBombeoArcor_PrograAvanzadaWeb\BackEnd\BE.DAL.DO\bin\Debug\netcoreapp3.1\BE.DAL.DO.dll
+C:\Users\sergi\Desktop\progra avanzada\SistemaBombeoArcor_PrograAvanzadaWeb\BackEnd\BE.DAL.DO\bin\Debug\netcoreapp3.1\BE.DAL.DO.pdb
+C:\Users\sergi\Desktop\progra avanzada\SistemaBombeoArcor_PrograAvanzadaWeb\BackEnd\BE.DAL.DO\obj\Debug\netcoreapp3.1\BE.DAL.DO.csproj.AssemblyReference.cache
+C:\Users\sergi\Desktop\progra avanzada\SistemaBombeoArcor_PrograAvanzadaWeb\BackEnd\BE.DAL.DO\obj\Debug\netcoreapp3.1\BE.DAL.DO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sergi\Desktop\progra avanzada\SistemaBombeoArcor_PrograAvanzadaWeb\BackEnd\BE.DAL.DO\obj\Debug\netcoreapp3.1\BE.DAL.DO.AssemblyInfoInputs.cache
+C:\Users\sergi\Desktop\progra avanzada\SistemaBombeoArcor_PrograAvanzadaWeb\BackEnd\BE.DAL.DO\obj\Debug\netcoreapp3.1\BE.DAL.DO.AssemblyInfo.cs
+C:\Users\sergi\Desktop\progra avanzada\SistemaBombeoArcor_PrograAvanzadaWeb\BackEnd\BE.DAL.DO\obj\Debug\netcoreapp3.1\BE.DAL.DO.csproj.CoreCompileInputs.cache
+C:\Users\sergi\Desktop\progra avanzada\SistemaBombeoArcor_PrograAvanzadaWeb\BackEnd\BE.DAL.DO\obj\Debug\netcoreapp3.1\BE.DAL.DO.dll
+C:\Users\sergi\Desktop\progra avanzada\SistemaBombeoArcor_PrograAvanzadaWeb\BackEnd\BE.DAL.DO\obj\Debug\netcoreapp3.1\BE.DAL.DO.pdb

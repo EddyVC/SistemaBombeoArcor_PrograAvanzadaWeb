@@ -12,7 +12,7 @@ namespace BE.DAL.DO.Objetos
         public Producto()
         {
             //Carrito = new HashSet<Carrito>();
-            //Detalleventa = new HashSet<Detalleventa>();
+            Detalleventa = new HashSet<Detalleventa>();
             //History = new HashSet<History>();
         }
 
@@ -29,7 +29,7 @@ namespace BE.DAL.DO.Objetos
         public virtual Categoria IdcategoriaNavigation { get; set; }
         public virtual Marca IdmarcaNavigation { get; set; }
         //public virtual ICollection<Carrito> Carrito { get; set; }
-        //public virtual ICollection<Detalleventa> Detalleventa { get; set; }
+        public virtual ICollection<Detalleventa> Detalleventa { get; set; }
         //public virtual ICollection<History> History { get; set; }
     }
 }

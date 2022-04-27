@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Eddy\\Estudios 2022\\7 Cuatrimestre\\Progra Avanzada WEb\\ProyectoFinal\\Base\\BackEnd\\BE.BS\\BE.BS.csproj": {}
+    "C:\\Users\\sergi\\Desktop\\progra avanzada\\SistemaBombeoArcor_PrograAvanzadaWeb\\BackEnd\\BE.BS\\BE.BS.csproj": {}
   },
   "projects": {
-    "D:\\Eddy\\Estudios 2022\\7 Cuatrimestre\\Progra Avanzada WEb\\ProyectoFinal\\Base\\BackEnd\\BE.BS\\BE.BS.csproj": {
+    "C:\\Users\\sergi\\Desktop\\progra avanzada\\SistemaBombeoArcor_PrograAvanzadaWeb\\BackEnd\\BE.BS\\BE.BS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Eddy\\Estudios 2022\\7 Cuatrimestre\\Progra Avanzada WEb\\ProyectoFinal\\Base\\BackEnd\\BE.BS\\BE.BS.csproj",
+        "projectUniqueName": "C:\\Users\\sergi\\Desktop\\progra avanzada\\SistemaBombeoArcor_PrograAvanzadaWeb\\BackEnd\\BE.BS\\BE.BS.csproj",
         "projectName": "BE.BS",
-        "projectPath": "D:\\Eddy\\Estudios 2022\\7 Cuatrimestre\\Progra Avanzada WEb\\ProyectoFinal\\Base\\BackEnd\\BE.BS\\BE.BS.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Eddy\\Estudios 2022\\7 Cuatrimestre\\Progra Avanzada WEb\\ProyectoFinal\\Base\\BackEnd\\BE.BS\\obj\\",
+        "projectPath": "C:\\Users\\sergi\\Desktop\\progra avanzada\\SistemaBombeoArcor_PrograAvanzadaWeb\\BackEnd\\BE.BS\\BE.BS.csproj",
+        "packagesPath": "C:\\Users\\sergi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sergi\\Desktop\\progra avanzada\\SistemaBombeoArcor_PrograAvanzadaWeb\\BackEnd\\BE.BS\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "J:\\vscomshared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sergi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,11 +32,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Eddy\\Estudios 2022\\7 Cuatrimestre\\Progra Avanzada WEb\\ProyectoFinal\\Base\\BackEnd\\BE.DAL.DO\\BE.DAL.DO.csproj": {
-                "projectPath": "D:\\Eddy\\Estudios 2022\\7 Cuatrimestre\\Progra Avanzada WEb\\ProyectoFinal\\Base\\BackEnd\\BE.DAL.DO\\BE.DAL.DO.csproj"
+              "C:\\Users\\sergi\\Desktop\\progra avanzada\\SistemaBombeoArcor_PrograAvanzadaWeb\\BackEnd\\BE.DAL.DO\\BE.DAL.DO.csproj": {
+                "projectPath": "C:\\Users\\sergi\\Desktop\\progra avanzada\\SistemaBombeoArcor_PrograAvanzadaWeb\\BackEnd\\BE.DAL.DO\\BE.DAL.DO.csproj"
               },
-              "D:\\Eddy\\Estudios 2022\\7 Cuatrimestre\\Progra Avanzada WEb\\ProyectoFinal\\Base\\BackEnd\\BE.DAL\\BE.DAL.csproj": {
-                "projectPath": "D:\\Eddy\\Estudios 2022\\7 Cuatrimestre\\Progra Avanzada WEb\\ProyectoFinal\\Base\\BackEnd\\BE.DAL\\BE.DAL.csproj"
+              "C:\\Users\\sergi\\Desktop\\progra avanzada\\SistemaBombeoArcor_PrograAvanzadaWeb\\BackEnd\\BE.DAL\\BE.DAL.csproj": {
+                "projectPath": "C:\\Users\\sergi\\Desktop\\progra avanzada\\SistemaBombeoArcor_PrograAvanzadaWeb\\BackEnd\\BE.DAL\\BE.DAL.csproj"
               }
             }
           }
@@ -83,21 +87,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Eddy\\Estudios 2022\\7 Cuatrimestre\\Progra Avanzada WEb\\ProyectoFinal\\Base\\BackEnd\\BE.DAL.DO\\BE.DAL.DO.csproj": {
+    "C:\\Users\\sergi\\Desktop\\progra avanzada\\SistemaBombeoArcor_PrograAvanzadaWeb\\BackEnd\\BE.DAL.DO\\BE.DAL.DO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Eddy\\Estudios 2022\\7 Cuatrimestre\\Progra Avanzada WEb\\ProyectoFinal\\Base\\BackEnd\\BE.DAL.DO\\BE.DAL.DO.csproj",
+        "projectUniqueName": "C:\\Users\\sergi\\Desktop\\progra avanzada\\SistemaBombeoArcor_PrograAvanzadaWeb\\BackEnd\\BE.DAL.DO\\BE.DAL.DO.csproj",
         "projectName": "BE.DAL.DO",
-        "projectPath": "D:\\Eddy\\Estudios 2022\\7 Cuatrimestre\\Progra Avanzada WEb\\ProyectoFinal\\Base\\BackEnd\\BE.DAL.DO\\BE.DAL.DO.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Eddy\\Estudios 2022\\7 Cuatrimestre\\Progra Avanzada WEb\\ProyectoFinal\\Base\\BackEnd\\BE.DAL.DO\\obj\\",
+        "projectPath": "C:\\Users\\sergi\\Desktop\\progra avanzada\\SistemaBombeoArcor_PrograAvanzadaWeb\\BackEnd\\BE.DAL.DO\\BE.DAL.DO.csproj",
+        "packagesPath": "C:\\Users\\sergi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sergi\\Desktop\\progra avanzada\\SistemaBombeoArcor_PrograAvanzadaWeb\\BackEnd\\BE.DAL.DO\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "J:\\vscomshared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sergi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -137,21 +145,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Eddy\\Estudios 2022\\7 Cuatrimestre\\Progra Avanzada WEb\\ProyectoFinal\\Base\\BackEnd\\BE.DAL.EF\\BE.DAL.EF.csproj": {
+    "C:\\Users\\sergi\\Desktop\\progra avanzada\\SistemaBombeoArcor_PrograAvanzadaWeb\\BackEnd\\BE.DAL.EF\\BE.DAL.EF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Eddy\\Estudios 2022\\7 Cuatrimestre\\Progra Avanzada WEb\\ProyectoFinal\\Base\\BackEnd\\BE.DAL.EF\\BE.DAL.EF.csproj",
+        "projectUniqueName": "C:\\Users\\sergi\\Desktop\\progra avanzada\\SistemaBombeoArcor_PrograAvanzadaWeb\\BackEnd\\BE.DAL.EF\\BE.DAL.EF.csproj",
         "projectName": "BE.DAL.EF",
-        "projectPath": "D:\\Eddy\\Estudios 2022\\7 Cuatrimestre\\Progra Avanzada WEb\\ProyectoFinal\\Base\\BackEnd\\BE.DAL.EF\\BE.DAL.EF.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Eddy\\Estudios 2022\\7 Cuatrimestre\\Progra Avanzada WEb\\ProyectoFinal\\Base\\BackEnd\\BE.DAL.EF\\obj\\",
+        "projectPath": "C:\\Users\\sergi\\Desktop\\progra avanzada\\SistemaBombeoArcor_PrograAvanzadaWeb\\BackEnd\\BE.DAL.EF\\BE.DAL.EF.csproj",
+        "packagesPath": "C:\\Users\\sergi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sergi\\Desktop\\progra avanzada\\SistemaBombeoArcor_PrograAvanzadaWeb\\BackEnd\\BE.DAL.EF\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "J:\\vscomshared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sergi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -165,8 +177,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Eddy\\Estudios 2022\\7 Cuatrimestre\\Progra Avanzada WEb\\ProyectoFinal\\Base\\BackEnd\\BE.DAL.DO\\BE.DAL.DO.csproj": {
-                "projectPath": "D:\\Eddy\\Estudios 2022\\7 Cuatrimestre\\Progra Avanzada WEb\\ProyectoFinal\\Base\\BackEnd\\BE.DAL.DO\\BE.DAL.DO.csproj"
+              "C:\\Users\\sergi\\Desktop\\progra avanzada\\SistemaBombeoArcor_PrograAvanzadaWeb\\BackEnd\\BE.DAL.DO\\BE.DAL.DO.csproj": {
+                "projectPath": "C:\\Users\\sergi\\Desktop\\progra avanzada\\SistemaBombeoArcor_PrograAvanzadaWeb\\BackEnd\\BE.DAL.DO\\BE.DAL.DO.csproj"
               }
             }
           }
@@ -217,21 +229,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Eddy\\Estudios 2022\\7 Cuatrimestre\\Progra Avanzada WEb\\ProyectoFinal\\Base\\BackEnd\\BE.DAL.Repository\\BE.DAL.Repository.csproj": {
+    "C:\\Users\\sergi\\Desktop\\progra avanzada\\SistemaBombeoArcor_PrograAvanzadaWeb\\BackEnd\\BE.DAL.Repository\\BE.DAL.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Eddy\\Estudios 2022\\7 Cuatrimestre\\Progra Avanzada WEb\\ProyectoFinal\\Base\\BackEnd\\BE.DAL.Repository\\BE.DAL.Repository.csproj",
+        "projectUniqueName": "C:\\Users\\sergi\\Desktop\\progra avanzada\\SistemaBombeoArcor_PrograAvanzadaWeb\\BackEnd\\BE.DAL.Repository\\BE.DAL.Repository.csproj",
         "projectName": "BE.DAL.Repository",
-        "projectPath": "D:\\Eddy\\Estudios 2022\\7 Cuatrimestre\\Progra Avanzada WEb\\ProyectoFinal\\Base\\BackEnd\\BE.DAL.Repository\\BE.DAL.Repository.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Eddy\\Estudios 2022\\7 Cuatrimestre\\Progra Avanzada WEb\\ProyectoFinal\\Base\\BackEnd\\BE.DAL.Repository\\obj\\",
+        "projectPath": "C:\\Users\\sergi\\Desktop\\progra avanzada\\SistemaBombeoArcor_PrograAvanzadaWeb\\BackEnd\\BE.DAL.Repository\\BE.DAL.Repository.csproj",
+        "packagesPath": "C:\\Users\\sergi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sergi\\Desktop\\progra avanzada\\SistemaBombeoArcor_PrograAvanzadaWeb\\BackEnd\\BE.DAL.Repository\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "J:\\vscomshared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sergi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -245,8 +261,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Eddy\\Estudios 2022\\7 Cuatrimestre\\Progra Avanzada WEb\\ProyectoFinal\\Base\\BackEnd\\BE.DAL.EF\\BE.DAL.EF.csproj": {
-                "projectPath": "D:\\Eddy\\Estudios 2022\\7 Cuatrimestre\\Progra Avanzada WEb\\ProyectoFinal\\Base\\BackEnd\\BE.DAL.EF\\BE.DAL.EF.csproj"
+              "C:\\Users\\sergi\\Desktop\\progra avanzada\\SistemaBombeoArcor_PrograAvanzadaWeb\\BackEnd\\BE.DAL.EF\\BE.DAL.EF.csproj": {
+                "projectPath": "C:\\Users\\sergi\\Desktop\\progra avanzada\\SistemaBombeoArcor_PrograAvanzadaWeb\\BackEnd\\BE.DAL.EF\\BE.DAL.EF.csproj"
               }
             }
           }
@@ -297,21 +313,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Eddy\\Estudios 2022\\7 Cuatrimestre\\Progra Avanzada WEb\\ProyectoFinal\\Base\\BackEnd\\BE.DAL\\BE.DAL.csproj": {
+    "C:\\Users\\sergi\\Desktop\\progra avanzada\\SistemaBombeoArcor_PrograAvanzadaWeb\\BackEnd\\BE.DAL\\BE.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Eddy\\Estudios 2022\\7 Cuatrimestre\\Progra Avanzada WEb\\ProyectoFinal\\Base\\BackEnd\\BE.DAL\\BE.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\sergi\\Desktop\\progra avanzada\\SistemaBombeoArcor_PrograAvanzadaWeb\\BackEnd\\BE.DAL\\BE.DAL.csproj",
         "projectName": "BE.DAL",
-        "projectPath": "D:\\Eddy\\Estudios 2022\\7 Cuatrimestre\\Progra Avanzada WEb\\ProyectoFinal\\Base\\BackEnd\\BE.DAL\\BE.DAL.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Eddy\\Estudios 2022\\7 Cuatrimestre\\Progra Avanzada WEb\\ProyectoFinal\\Base\\BackEnd\\BE.DAL\\obj\\",
+        "projectPath": "C:\\Users\\sergi\\Desktop\\progra avanzada\\SistemaBombeoArcor_PrograAvanzadaWeb\\BackEnd\\BE.DAL\\BE.DAL.csproj",
+        "packagesPath": "C:\\Users\\sergi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sergi\\Desktop\\progra avanzada\\SistemaBombeoArcor_PrograAvanzadaWeb\\BackEnd\\BE.DAL\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "J:\\vscomshared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sergi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -325,11 +345,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Eddy\\Estudios 2022\\7 Cuatrimestre\\Progra Avanzada WEb\\ProyectoFinal\\Base\\BackEnd\\BE.DAL.DO\\BE.DAL.DO.csproj": {
-                "projectPath": "D:\\Eddy\\Estudios 2022\\7 Cuatrimestre\\Progra Avanzada WEb\\ProyectoFinal\\Base\\BackEnd\\BE.DAL.DO\\BE.DAL.DO.csproj"
+              "C:\\Users\\sergi\\Desktop\\progra avanzada\\SistemaBombeoArcor_PrograAvanzadaWeb\\BackEnd\\BE.DAL.DO\\BE.DAL.DO.csproj": {
+                "projectPath": "C:\\Users\\sergi\\Desktop\\progra avanzada\\SistemaBombeoArcor_PrograAvanzadaWeb\\BackEnd\\BE.DAL.DO\\BE.DAL.DO.csproj"
               },
-              "D:\\Eddy\\Estudios 2022\\7 Cuatrimestre\\Progra Avanzada WEb\\ProyectoFinal\\Base\\BackEnd\\BE.DAL.Repository\\BE.DAL.Repository.csproj": {
-                "projectPath": "D:\\Eddy\\Estudios 2022\\7 Cuatrimestre\\Progra Avanzada WEb\\ProyectoFinal\\Base\\BackEnd\\BE.DAL.Repository\\BE.DAL.Repository.csproj"
+              "C:\\Users\\sergi\\Desktop\\progra avanzada\\SistemaBombeoArcor_PrograAvanzadaWeb\\BackEnd\\BE.DAL.Repository\\BE.DAL.Repository.csproj": {
+                "projectPath": "C:\\Users\\sergi\\Desktop\\progra avanzada\\SistemaBombeoArcor_PrograAvanzadaWeb\\BackEnd\\BE.DAL.Repository\\BE.DAL.Repository.csproj"
               }
             }
           }
@@ -380,7 +400,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

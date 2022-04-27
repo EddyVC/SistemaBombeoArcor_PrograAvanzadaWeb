@@ -15,12 +15,10 @@ namespace API.Models
         }
 
         public int Idventa { get; set; }
-        public string Idusuario { get; set; }
         public int? Iva { get; set; }
         public decimal? Total { get; set; }
         public DateTime? Fecharegistro { get; set; }
 
-        public virtual AspNetUsers IdusuarioNavigation { get; set; }
         public virtual ICollection<Detalleventa> Detalleventa { get; set; }
     }
 }

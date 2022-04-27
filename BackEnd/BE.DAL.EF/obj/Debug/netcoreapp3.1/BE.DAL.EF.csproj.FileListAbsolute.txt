@@ -14,3 +14,19 @@ D:\Eddy\Estudios 2022\7 Cuatrimestre\Progra Avanzada WEb\ProyectoFinal\Base\Back
 D:\Eddy\Estudios 2022\7 Cuatrimestre\Progra Avanzada WEb\ProyectoFinal\Base\BackEnd\BE.DAL.EF\bin\Debug\netcoreapp3.1\BE.DAL.DO.pdb
 D:\Eddy\Estudios 2022\7 Cuatrimestre\Progra Avanzada WEb\ProyectoFinal\Base\BackEnd\BE.DAL.EF\obj\Debug\netcoreapp3.1\BE.DAL.EF.csproj.AssemblyReference.cache
 D:\Eddy\Estudios 2022\7 Cuatrimestre\Progra Avanzada WEb\ProyectoFinal\Base\BackEnd\BE.DAL.EF\obj\Debug\netcoreapp3.1\BE.DAL.EF.csproj.CopyComplete
+C:\Users\sergi\Desktop\progra avanzada\SistemaBombeoArcor_PrograAvanzadaWeb\BackEnd\BE.DAL.EF\bin\Debug\netcoreapp3.1\BE.DAL.EF.deps.json
+C:\Users\sergi\Desktop\progra avanzada\SistemaBombeoArcor_PrograAvanzadaWeb\BackEnd\BE.DAL.EF\bin\Debug\netcoreapp3.1\BE.DAL.EF.runtimeconfig.json
+C:\Users\sergi\Desktop\progra avanzada\SistemaBombeoArcor_PrograAvanzadaWeb\BackEnd\BE.DAL.EF\bin\Debug\netcoreapp3.1\BE.DAL.EF.runtimeconfig.dev.json
+C:\Users\sergi\Desktop\progra avanzada\SistemaBombeoArcor_PrograAvanzadaWeb\BackEnd\BE.DAL.EF\bin\Debug\netcoreapp3.1\BE.DAL.EF.dll
+C:\Users\sergi\Desktop\progra avanzada\SistemaBombeoArcor_PrograAvanzadaWeb\BackEnd\BE.DAL.EF\bin\Debug\netcoreapp3.1\BE.DAL.EF.pdb
+C:\Users\sergi\Desktop\progra avanzada\SistemaBombeoArcor_PrograAvanzadaWeb\BackEnd\BE.DAL.EF\bin\Debug\netcoreapp3.1\BE.DAL.DO.dll
+C:\Users\sergi\Desktop\progra avanzada\SistemaBombeoArcor_PrograAvanzadaWeb\BackEnd\BE.DAL.EF\bin\Debug\netcoreapp3.1\BE.DAL.DO.pdb
+C:\Users\sergi\Desktop\progra avanzada\SistemaBombeoArcor_PrograAvanzadaWeb\BackEnd\BE.DAL.EF\obj\Debug\netcoreapp3.1\BE.DAL.EF.csproj.AssemblyReference.cache
+C:\Users\sergi\Desktop\progra avanzada\SistemaBombeoArcor_PrograAvanzadaWeb\BackEnd\BE.DAL.EF\obj\Debug\netcoreapp3.1\BE.DAL.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sergi\Desktop\progra avanzada\SistemaBombeoArcor_PrograAvanzadaWeb\BackEnd\BE.DAL.EF\obj\Debug\netcoreapp3.1\BE.DAL.EF.AssemblyInfoInputs.cache
+C:\Users\sergi\Desktop\progra avanzada\SistemaBombeoArcor_PrograAvanzadaWeb\BackEnd\BE.DAL.EF\obj\Debug\netcoreapp3.1\BE.DAL.EF.AssemblyInfo.cs
+C:\Users\sergi\Desktop\progra avanzada\SistemaBombeoArcor_PrograAvanzadaWeb\BackEnd\BE.DAL.EF\obj\Debug\netcoreapp3.1\BE.DAL.EF.csproj.CoreCompileInputs.cache
+C:\Users\sergi\Desktop\progra avanzada\SistemaBombeoArcor_PrograAvanzadaWeb\BackEnd\BE.DAL.EF\obj\Debug\netcoreapp3.1\BE.DAL.EF.csproj.CopyComplete
+C:\Users\sergi\Desktop\progra avanzada\SistemaBombeoArcor_PrograAvanzadaWeb\BackEnd\BE.DAL.EF\obj\Debug\netcoreapp3.1\BE.DAL.EF.dll
+C:\Users\sergi\Desktop\progra avanzada\SistemaBombeoArcor_PrograAvanzadaWeb\BackEnd\BE.DAL.EF\obj\Debug\netcoreapp3.1\BE.DAL.EF.pdb
+C:\Users\sergi\Desktop\progra avanzada\SistemaBombeoArcor_PrograAvanzadaWeb\BackEnd\BE.DAL.EF\obj\Debug\netcoreapp3.1\BE.DAL.EF.genruntimeconfig.cache

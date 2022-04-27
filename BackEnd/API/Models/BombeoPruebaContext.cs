@@ -28,7 +28,6 @@ namespace API.Models
         public virtual DbSet<Categoria> Categoria { get; set; }
         public virtual DbSet<Contacto> Contacto { get; set; }
         public virtual DbSet<Detalleventa> Detalleventa { get; set; }
-        public virtual DbSet<Factura> Factura { get; set; }
         public virtual DbSet<History> History { get; set; }
         public virtual DbSet<Instalador> Instalador { get; set; }
         public virtual DbSet<Marca> Marca { get; set; }
@@ -471,20 +470,11 @@ namespace API.Models
                     .HasColumnType("datetime")
                     .HasDefaultValueSql("(getdate())");
 
-                entity.Property(e => e.Idusuario)
-                    .HasColumnName("IDUSUARIO")
-                    .HasMaxLength(128);
-
                 entity.Property(e => e.Iva).HasColumnName("IVA");
 
                 entity.Property(e => e.Total)
                     .HasColumnName("TOTAL")
                     .HasColumnType("decimal(18, 2)");
-
-                entity.HasOne(d => d.IdusuarioNavigation)
-                    .WithMany(p => p.Venta)
-                    .HasForeignKey(d => d.Idusuario)
-                    .HasConstraintName("FK__VENTA__IDUSUARIO__3F466844");
             });
 
             OnModelCreatingPartial(modelBuilder);
