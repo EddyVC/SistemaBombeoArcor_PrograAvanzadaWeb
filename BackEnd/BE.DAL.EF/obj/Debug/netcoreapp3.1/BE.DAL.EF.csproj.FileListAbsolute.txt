@@ -1,0 +1,16 @@
+D:\Eddy\Estudios 2022\7 Cuatrimestre\Progra Avanzada WEb\ProyectoFinal\Base\BackEnd\BE.DAL.EF\bin\Debug\netcoreapp3.1\BE.DAL.EF.deps.json
+D:\Eddy\Estudios 2022\7 Cuatrimestre\Progra Avanzada WEb\ProyectoFinal\Base\BackEnd\BE.DAL.EF\bin\Debug\netcoreapp3.1\BE.DAL.EF.runtimeconfig.json
+D:\Eddy\Estudios 2022\7 Cuatrimestre\Progra Avanzada WEb\ProyectoFinal\Base\BackEnd\BE.DAL.EF\bin\Debug\netcoreapp3.1\BE.DAL.EF.runtimeconfig.dev.json
+D:\Eddy\Estudios 2022\7 Cuatrimestre\Progra Avanzada WEb\ProyectoFinal\Base\BackEnd\BE.DAL.EF\bin\Debug\netcoreapp3.1\BE.DAL.EF.dll
+D:\Eddy\Estudios 2022\7 Cuatrimestre\Progra Avanzada WEb\ProyectoFinal\Base\BackEnd\BE.DAL.EF\bin\Debug\netcoreapp3.1\BE.DAL.EF.pdb
+D:\Eddy\Estudios 2022\7 Cuatrimestre\Progra Avanzada WEb\ProyectoFinal\Base\BackEnd\BE.DAL.EF\obj\Debug\netcoreapp3.1\BE.DAL.EF.GeneratedMSBuildEditorConfig.editorconfig
+D:\Eddy\Estudios 2022\7 Cuatrimestre\Progra Avanzada WEb\ProyectoFinal\Base\BackEnd\BE.DAL.EF\obj\Debug\netcoreapp3.1\BE.DAL.EF.AssemblyInfoInputs.cache
+D:\Eddy\Estudios 2022\7 Cuatrimestre\Progra Avanzada WEb\ProyectoFinal\Base\BackEnd\BE.DAL.EF\obj\Debug\netcoreapp3.1\BE.DAL.EF.AssemblyInfo.cs
+D:\Eddy\Estudios 2022\7 Cuatrimestre\Progra Avanzada WEb\ProyectoFinal\Base\BackEnd\BE.DAL.EF\obj\Debug\netcoreapp3.1\BE.DAL.EF.csproj.CoreCompileInputs.cache
+D:\Eddy\Estudios 2022\7 Cuatrimestre\Progra Avanzada WEb\ProyectoFinal\Base\BackEnd\BE.DAL.EF\obj\Debug\netcoreapp3.1\BE.DAL.EF.dll
+D:\Eddy\Estudios 2022\7 Cuatrimestre\Progra Avanzada WEb\ProyectoFinal\Base\BackEnd\BE.DAL.EF\obj\Debug\netcoreapp3.1\BE.DAL.EF.pdb
+D:\Eddy\Estudios 2022\7 Cuatrimestre\Progra Avanzada WEb\ProyectoFinal\Base\BackEnd\BE.DAL.EF\obj\Debug\netcoreapp3.1\BE.DAL.EF.genruntimeconfig.cache
+D:\Eddy\Estudios 2022\7 Cuatrimestre\Progra Avanzada WEb\ProyectoFinal\Base\BackEnd\BE.DAL.EF\bin\Debug\netcoreapp3.1\BE.DAL.DO.dll
+D:\Eddy\Estudios 2022\7 Cuatrimestre\Progra Avanzada WEb\ProyectoFinal\Base\BackEnd\BE.DAL.EF\bin\Debug\netcoreapp3.1\BE.DAL.DO.pdb
+D:\Eddy\Estudios 2022\7 Cuatrimestre\Progra Avanzada WEb\ProyectoFinal\Base\BackEnd\BE.DAL.EF\obj\Debug\netcoreapp3.1\BE.DAL.EF.csproj.AssemblyReference.cache
+D:\Eddy\Estudios 2022\7 Cuatrimestre\Progra Avanzada WEb\ProyectoFinal\Base\BackEnd\BE.DAL.EF\obj\Debug\netcoreapp3.1\BE.DAL.EF.csproj.CopyComplete
