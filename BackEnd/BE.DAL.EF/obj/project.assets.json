@@ -5744,11 +5744,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Eddy\\Estudios 2022\\7 Cuatrimestre\\Progra Avanzada WEb\\ProyectoFinal\\Base\\BackEnd\\BE.DAL.EF\\BE.DAL.EF.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\SistemaBombeoArcor_PrograAvanzadaWeb\\BackEnd\\BE.DAL.EF\\BE.DAL.EF.csproj",
       "projectName": "BE.DAL.EF",
-      "projectPath": "D:\\Eddy\\Estudios 2022\\7 Cuatrimestre\\Progra Avanzada WEb\\ProyectoFinal\\Base\\BackEnd\\BE.DAL.EF\\BE.DAL.EF.csproj",
+      "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\SistemaBombeoArcor_PrograAvanzadaWeb\\BackEnd\\BE.DAL.EF\\BE.DAL.EF.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Eddy\\Estudios 2022\\7 Cuatrimestre\\Progra Avanzada WEb\\ProyectoFinal\\Base\\BackEnd\\BE.DAL.EF\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\SistemaBombeoArcor_PrograAvanzadaWeb\\BackEnd\\BE.DAL.EF\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5765,8 +5765,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\Eddy\\Estudios 2022\\7 Cuatrimestre\\Progra Avanzada WEb\\ProyectoFinal\\Base\\BackEnd\\BE.DAL.DO\\BE.DAL.DO.csproj": {
-              "projectPath": "D:\\Eddy\\Estudios 2022\\7 Cuatrimestre\\Progra Avanzada WEb\\ProyectoFinal\\Base\\BackEnd\\BE.DAL.DO\\BE.DAL.DO.csproj"
+            "C:\\Users\\Admin\\Documents\\GitHub\\SistemaBombeoArcor_PrograAvanzadaWeb\\BackEnd\\BE.DAL.DO\\BE.DAL.DO.csproj": {
+              "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\SistemaBombeoArcor_PrograAvanzadaWeb\\BackEnd\\BE.DAL.DO\\BE.DAL.DO.csproj"
             }
           }
         }

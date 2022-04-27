@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0rApFwW/SqRJRrtz8XJORwtO5nz+gyWM6QD+3Yf+BfkoUm8wn77htXmXC2KwyZFPhjRkMlUvX9rVszGD6vHMEQ==",
+  "dgSpecHash": "J7vM+UP0ckQb//yzv1yz6Fnq9LMXMoqW6/PhenYjbe2YGF4HuyL4NEmLYLfZ1t+ahE5BKFlDLz+0nglqJC6+Ow==",
   "success": true,
-  "projectFilePath": "D:\\Eddy\\Estudios 2022\\7 Cuatrimestre\\Progra Avanzada WEb\\ProyectoFinal\\Base\\BackEnd\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Documents\\GitHub\\SistemaBombeoArcor_PrograAvanzadaWeb\\BackEnd\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

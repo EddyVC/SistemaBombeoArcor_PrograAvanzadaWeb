@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aRRj/lEfJyvVhXE5aSSKJmq8yTm4CYZoP5D0RVst/sbKclXzAdUqZx9aikfyVeh/bt4BMhedZ3SuKXZkX3HTZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Documents\\GitHub\\SistemaBombeoArcor_PrograAvanzadaWeb\\FrontEnd\\FE\\FE.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

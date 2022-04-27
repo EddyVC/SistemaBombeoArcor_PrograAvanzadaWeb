@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eV8vopkNAgqQ9q80YrPyCu0Of7uqLVrkWw06U28i4+IV5t7txsiuPJbrJPVRVunAlFpFbpEiZcdvEoAQ3Fd/fA==",
+  "dgSpecHash": "ZMzd2C6Gr7K81No9NFoSUyXMakBmZ26Qx6PQ3Mc1+mABRvtpwZy+SRIu8pziqB4GYdF/aKGqwPaIzCxAkEtTqA==",
   "success": true,
-  "projectFilePath": "D:\\Eddy\\Estudios 2022\\7 Cuatrimestre\\Progra Avanzada WEb\\ProyectoFinal\\Base\\BackEnd\\BE.API\\BE.API.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Documents\\GitHub\\SistemaBombeoArcor_PrograAvanzadaWeb\\BackEnd\\BE.API\\BE.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\automapper\\8.1.1\\automapper.8.1.1.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\6.1.1\\automapper.extensions.microsoft.dependencyinjection.6.1.1.nupkg.sha512",

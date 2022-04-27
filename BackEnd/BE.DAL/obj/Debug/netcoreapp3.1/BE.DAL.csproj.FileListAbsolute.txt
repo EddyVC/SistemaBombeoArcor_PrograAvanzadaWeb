@@ -18,3 +18,23 @@ D:\Eddy\Estudios 2022\7 Cuatrimestre\Progra Avanzada WEb\ProyectoFinal\Base\Back
 D:\Eddy\Estudios 2022\7 Cuatrimestre\Progra Avanzada WEb\ProyectoFinal\Base\BackEnd\BE.DAL\bin\Debug\netcoreapp3.1\BE.DAL.EF.pdb
 D:\Eddy\Estudios 2022\7 Cuatrimestre\Progra Avanzada WEb\ProyectoFinal\Base\BackEnd\BE.DAL\obj\Debug\netcoreapp3.1\BE.DAL.csproj.AssemblyReference.cache
 D:\Eddy\Estudios 2022\7 Cuatrimestre\Progra Avanzada WEb\ProyectoFinal\Base\BackEnd\BE.DAL\obj\Debug\netcoreapp3.1\BE.DAL.csproj.CopyComplete
+C:\Users\Admin\Documents\GitHub\SistemaBombeoArcor_PrograAvanzadaWeb\BackEnd\BE.DAL\bin\Debug\netcoreapp3.1\BE.DAL.deps.json
+C:\Users\Admin\Documents\GitHub\SistemaBombeoArcor_PrograAvanzadaWeb\BackEnd\BE.DAL\bin\Debug\netcoreapp3.1\BE.DAL.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\SistemaBombeoArcor_PrograAvanzadaWeb\BackEnd\BE.DAL\bin\Debug\netcoreapp3.1\BE.DAL.runtimeconfig.dev.json
+C:\Users\Admin\Documents\GitHub\SistemaBombeoArcor_PrograAvanzadaWeb\BackEnd\BE.DAL\bin\Debug\netcoreapp3.1\BE.DAL.dll
+C:\Users\Admin\Documents\GitHub\SistemaBombeoArcor_PrograAvanzadaWeb\BackEnd\BE.DAL\bin\Debug\netcoreapp3.1\BE.DAL.pdb
+C:\Users\Admin\Documents\GitHub\SistemaBombeoArcor_PrograAvanzadaWeb\BackEnd\BE.DAL\bin\Debug\netcoreapp3.1\BE.DAL.DO.dll
+C:\Users\Admin\Documents\GitHub\SistemaBombeoArcor_PrograAvanzadaWeb\BackEnd\BE.DAL\bin\Debug\netcoreapp3.1\BE.DAL.EF.dll
+C:\Users\Admin\Documents\GitHub\SistemaBombeoArcor_PrograAvanzadaWeb\BackEnd\BE.DAL\bin\Debug\netcoreapp3.1\BE.DAL.Repository.dll
+C:\Users\Admin\Documents\GitHub\SistemaBombeoArcor_PrograAvanzadaWeb\BackEnd\BE.DAL\bin\Debug\netcoreapp3.1\BE.DAL.DO.pdb
+C:\Users\Admin\Documents\GitHub\SistemaBombeoArcor_PrograAvanzadaWeb\BackEnd\BE.DAL\bin\Debug\netcoreapp3.1\BE.DAL.Repository.pdb
+C:\Users\Admin\Documents\GitHub\SistemaBombeoArcor_PrograAvanzadaWeb\BackEnd\BE.DAL\bin\Debug\netcoreapp3.1\BE.DAL.EF.pdb
+C:\Users\Admin\Documents\GitHub\SistemaBombeoArcor_PrograAvanzadaWeb\BackEnd\BE.DAL\obj\Debug\netcoreapp3.1\BE.DAL.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\SistemaBombeoArcor_PrograAvanzadaWeb\BackEnd\BE.DAL\obj\Debug\netcoreapp3.1\BE.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\SistemaBombeoArcor_PrograAvanzadaWeb\BackEnd\BE.DAL\obj\Debug\netcoreapp3.1\BE.DAL.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\SistemaBombeoArcor_PrograAvanzadaWeb\BackEnd\BE.DAL\obj\Debug\netcoreapp3.1\BE.DAL.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\SistemaBombeoArcor_PrograAvanzadaWeb\BackEnd\BE.DAL\obj\Debug\netcoreapp3.1\BE.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\SistemaBombeoArcor_PrograAvanzadaWeb\BackEnd\BE.DAL\obj\Debug\netcoreapp3.1\BE.DAL.csproj.CopyComplete
+C:\Users\Admin\Documents\GitHub\SistemaBombeoArcor_PrograAvanzadaWeb\BackEnd\BE.DAL\obj\Debug\netcoreapp3.1\BE.DAL.dll
+C:\Users\Admin\Documents\GitHub\SistemaBombeoArcor_PrograAvanzadaWeb\BackEnd\BE.DAL\obj\Debug\netcoreapp3.1\BE.DAL.pdb
+C:\Users\Admin\Documents\GitHub\SistemaBombeoArcor_PrograAvanzadaWeb\BackEnd\BE.DAL\obj\Debug\netcoreapp3.1\BE.DAL.genruntimeconfig.cache

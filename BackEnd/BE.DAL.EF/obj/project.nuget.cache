@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TvGuF7uFXta1pMuVfI5rIzADtyrWeslLMGFLs49a8Ux8g2z1z1MgGw2RucnPL4b1MEvBtYDuTua11gQX8MaPCg==",
+  "dgSpecHash": "+u/pSCwnGiUMx8iw0wXmEkke4Uh8gCdb4GpJheAxkwHWZI5No6Q+TtQj7ud0T1c2vL0Kr8px/ksf5iHHYs9LwA==",
   "success": true,
-  "projectFilePath": "D:\\Eddy\\Estudios 2022\\7 Cuatrimestre\\Progra Avanzada WEb\\ProyectoFinal\\Base\\BackEnd\\BE.DAL.EF\\BE.DAL.EF.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Documents\\GitHub\\SistemaBombeoArcor_PrograAvanzadaWeb\\BackEnd\\BE.DAL.EF\\BE.DAL.EF.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
