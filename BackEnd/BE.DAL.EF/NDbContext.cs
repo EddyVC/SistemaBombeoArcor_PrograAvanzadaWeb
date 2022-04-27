@@ -28,6 +28,10 @@ namespace BE.DAL.EF
 
         public virtual DbSet<Contacto> Contacto { get; set; }
 
+        public virtual DbSet<Venta> Venta { get; set; }
+
+        public virtual DbSet<Detalleventa> Detalleventa { get; set; }
+
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<Categoria>(entity =>
@@ -97,8 +101,6 @@ namespace BE.DAL.EF
                 entity.HasKey(e => e.IdInstalador)
                     .HasName("PK__INSTALAD__F033D4040276726B");
 
-                entity.ToTable("INSTALADOR");
-
                 entity.Property(e => e.FechaRegistro)
                     .HasColumnType("datetime")
                     .HasDefaultValueSql("(getdate())");
@@ -107,10 +109,10 @@ namespace BE.DAL.EF
                     .HasMaxLength(60)
                     .IsUnicode(false);
 
-                //entity.HasOne(d => d.IdProvinciaNavigation)
-                //    .WithMany(p => p.Instalador)
-                //    .HasForeignKey(d => d.IdProvincia)
-                //    .HasConstraintName("FK__INSTALADO__IdPro__6754599E");
+                entity.HasOne(d => d.IdProvinciaNavigation)
+                    .WithMany(p => p.Instalador)
+                    .HasForeignKey(d => d.IdProvincia)
+                    .HasConstraintName("FK__INSTALADO__IdPro__5812160E");
             });
 
             modelBuilder.Entity<Marca>(entity =>
@@ -170,15 +172,15 @@ namespace BE.DAL.EF
 
                 entity.Property(e => e.Valorcodigo).HasColumnName("VALORCODIGO");
 
-                //entity.HasOne(d => d.IdcategoriaNavigation)
-                //    .WithMany(p => p.Producto)
-                //    .HasForeignKey(d => d.Idcategoria)
-                //    .HasConstraintName("FK__PRODUCTO__IDCATE__3A81B327");
+                entity.HasOne(d => d.IdcategoriaNavigation)
+                    .WithMany(p => p.Producto)
+                    .HasForeignKey(d => d.Idcategoria)
+                    .HasConstraintName("FK__PRODUCTO__IDCATE__3A81B327");
 
-                //entity.HasOne(d => d.IdmarcaNavigation)
-                //    .WithMany(p => p.Producto)
-                //    .HasForeignKey(d => d.Idmarca)
-                //    .HasConstraintName("FK__PRODUCTO__IDMARC__7F2BE32F");
+                entity.HasOne(d => d.IdmarcaNavigation)
+                    .WithMany(p => p.Producto)
+                    .HasForeignKey(d => d.Idmarca)
+                    .HasConstraintName("FK__PRODUCTO__IDMARC__7F2BE32F");
             });
 
             modelBuilder.Entity<Provincia>(entity =>
@@ -186,13 +188,67 @@ namespace BE.DAL.EF
                 entity.HasKey(e => e.IdProvincia)
                     .HasName("PK__PROVINCI__EED7445506097544");
 
-                entity.ToTable("PROVINCIA");
-
                 entity.Property(e => e.Nombre)
                     .IsRequired()
                     .HasMaxLength(60)
                     .IsUnicode(false);
             });
+
+            modelBuilder.Entity<Venta>(entity =>
+            {
+                entity.HasKey(e => e.Idventa)
+                    .HasName("PK__VENTA__2849CB579CB150EC");
+
+                entity.Property(e => e.Iva)
+                    .IsRequired();
+
+                entity.Property(e => e.Total)
+                    .IsRequired();
+
+                entity.Property(e => e.Fecharegistro)
+                    .HasColumnName("FECHAREGISTRO")
+                    .HasColumnType("datetime")
+                    .HasDefaultValueSql("(getdate())");
+            });
+
+            modelBuilder.Entity<Detalleventa>(entity =>
+            {
+                entity.HasKey(e => e.Iddetalleventa)
+                    .HasName("PK__VENTA__2849CB579CB150EC");
+
+                entity.Property(e => e.Idventa).HasColumnName("IDVENTA");
+
+                entity.Property(e => e.Idproducto).HasColumnName("IDPRODUCTO");
+
+                entity.Property(e => e.Cantidad)
+                    .IsRequired();
+
+                entity.Property(e => e.Importetotal)
+                    .IsRequired();
+
+                entity.Property(e => e.Descuento)
+                    .IsRequired();
+
+                entity.Property(e => e.Activo)
+                    .IsRequired();
+
+                entity.Property(e => e.Fecharegistro)
+                    .HasColumnName("FECHAREGISTRO")
+                    .HasColumnType("datetime")
+                    .HasDefaultValueSql("(getdate())");
+
+                entity.HasOne(d => d.IdproductoNavigation)
+                    .WithMany(p => p.Detalleventa)
+                    .HasForeignKey(d => d.Idproducto)
+                    .HasConstraintName("FK__DETALLEVE__IDPRO__5441852A");
+
+                entity.HasOne(d => d.IdventaNavigation)
+                    .WithMany(v => v.Detalleventa)
+                    .HasForeignKey(d => d.Idventa)
+                    .HasConstraintName("FK__DETALLEVE__IDVEN__5535A963");
+            });
+
+
 
             OnModelCreatingPartial(modelBuilder);
         }

@@ -8,19 +8,24 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+    "C:\\Users\\sergi\\.nuget\\packages\\": {},
+    "J:\\vscomshared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Eddy\\Estudios 2022\\7 Cuatrimestre\\Progra Avanzada WEb\\ProyectoFinal\\Base\\BackEnd\\BE.DAL.DO\\BE.DAL.DO.csproj",
+      "projectUniqueName": "C:\\Users\\sergi\\Desktop\\progra avanzada\\SistemaBombeoArcor_PrograAvanzadaWeb\\BackEnd\\BE.DAL.DO\\BE.DAL.DO.csproj",
       "projectName": "BE.DAL.DO",
-      "projectPath": "D:\\Eddy\\Estudios 2022\\7 Cuatrimestre\\Progra Avanzada WEb\\ProyectoFinal\\Base\\BackEnd\\BE.DAL.DO\\BE.DAL.DO.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Eddy\\Estudios 2022\\7 Cuatrimestre\\Progra Avanzada WEb\\ProyectoFinal\\Base\\BackEnd\\BE.DAL.DO\\obj\\",
+      "projectPath": "C:\\Users\\sergi\\Desktop\\progra avanzada\\SistemaBombeoArcor_PrograAvanzadaWeb\\BackEnd\\BE.DAL.DO\\BE.DAL.DO.csproj",
+      "packagesPath": "C:\\Users\\sergi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\sergi\\Desktop\\progra avanzada\\SistemaBombeoArcor_PrograAvanzadaWeb\\BackEnd\\BE.DAL.DO\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "J:\\vscomshared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\sergi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
