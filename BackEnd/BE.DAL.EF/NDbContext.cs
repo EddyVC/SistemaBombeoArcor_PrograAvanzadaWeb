@@ -229,8 +229,7 @@ namespace BE.DAL.EF
                 entity.Property(e => e.Descuento)
                     .IsRequired();
 
-                entity.Property(e => e.Activo)
-                    .IsRequired();
+                entity.Property(e => e.Activo);
 
                 entity.Property(e => e.Fecharegistro)
                     .HasColumnName("FECHAREGISTRO")

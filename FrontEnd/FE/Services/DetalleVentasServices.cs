@@ -18,7 +18,7 @@ namespace FE.Services
                     cl.BaseAddress = new Uri(Program.baseurl);
                     cl.DefaultRequestHeaders.Clear();
                     cl.DefaultRequestHeaders.Accept.Add(new System.Net.Http.Headers.MediaTypeWithQualityHeaderValue("application/json"));
-                    HttpResponseMessage res = cl.DeleteAsync("api/DetalleVentas/" + t.Idproducto.ToString()).Result;
+                    HttpResponseMessage res = cl.DeleteAsync("api/Detalleventas/" + t.Idproducto.ToString()).Result;
 
                     if (!res.IsSuccessStatusCode)
                     {
@@ -40,7 +40,7 @@ namespace FE.Services
                 cl.BaseAddress = new Uri(Program.baseurl);
                 cl.DefaultRequestHeaders.Clear();
                 cl.DefaultRequestHeaders.Accept.Add(new System.Net.Http.Headers.MediaTypeWithQualityHeaderValue("application/json"));
-                HttpResponseMessage res = cl.GetAsync("api/DetalleVentas").Result;
+                HttpResponseMessage res = cl.GetAsync("api/Detalleventas").Result;
 
                 if (res.IsSuccessStatusCode)
                 {
@@ -59,7 +59,7 @@ namespace FE.Services
                 cl.BaseAddress = new Uri(Program.baseurl);
                 cl.DefaultRequestHeaders.Clear();
                 cl.DefaultRequestHeaders.Accept.Add(new System.Net.Http.Headers.MediaTypeWithQualityHeaderValue("application/json"));
-                HttpResponseMessage res = await cl.GetAsync("api/DetalleVentas");
+                HttpResponseMessage res = await cl.GetAsync("api/Detalleventas");
 
                 if (res.IsSuccessStatusCode)
                 {
@@ -78,7 +78,7 @@ namespace FE.Services
                 cl.BaseAddress = new Uri(Program.baseurl);
                 cl.DefaultRequestHeaders.Clear();
                 cl.DefaultRequestHeaders.Accept.Add(new System.Net.Http.Headers.MediaTypeWithQualityHeaderValue("application/json"));
-                HttpResponseMessage res = cl.GetAsync("api/DetalleVentas/" + id).Result;
+                HttpResponseMessage res = cl.GetAsync("api/Detalleventas/" + id).Result;
 
                 if (res.IsSuccessStatusCode)
                 {
@@ -97,7 +97,7 @@ namespace FE.Services
                 cl.BaseAddress = new Uri(Program.baseurl);
                 cl.DefaultRequestHeaders.Clear();
                 cl.DefaultRequestHeaders.Accept.Add(new System.Net.Http.Headers.MediaTypeWithQualityHeaderValue("application/json"));
-                HttpResponseMessage res = await cl.GetAsync("api/DetalleVentas/" + id);
+                HttpResponseMessage res = await cl.GetAsync("api/Detalleventas/" + id);
 
                 if (res.IsSuccessStatusCode)
                 {
@@ -119,7 +119,7 @@ namespace FE.Services
                     var buffer = System.Text.Encoding.UTF8.GetBytes(content);
                     var byteContent = new ByteArrayContent(buffer);
                     byteContent.Headers.ContentType = new System.Net.Http.Headers.MediaTypeHeaderValue("application/json");
-                    var postTask = cl.PostAsync("api/DetalleVentas", byteContent).Result;
+                    var postTask = cl.PostAsync("api/Detalleventas", byteContent).Result;
 
                     if (!postTask.IsSuccessStatusCode)
                     {
@@ -144,7 +144,7 @@ namespace FE.Services
                     var buffer = System.Text.Encoding.UTF8.GetBytes(content);
                     var byteContent = new ByteArrayContent(buffer);
                     byteContent.Headers.ContentType = new System.Net.Http.Headers.MediaTypeHeaderValue("application/json");
-                    var postTask = cl.PutAsync("api/DetalleVentas/" + t.Idproducto, byteContent).Result;
+                    var postTask = cl.PutAsync("api/Detalleventas/" + t.Idproducto, byteContent).Result;
 
 
                     if (!postTask.IsSuccessStatusCode)
