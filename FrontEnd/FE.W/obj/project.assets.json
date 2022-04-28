@@ -8589,24 +8589,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\sergi\\.nuget\\packages\\": {},
-    "J:\\vscomshared\\NuGetPackages": {}
+    "C:\\Users\\Admin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sergi\\Desktop\\progra avanzada\\SistemaBombeoArcor_PrograAvanzadaWeb\\FrontEnd\\FE.W\\FE.W.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\SistemaBombeoArcor_PrograAvanzadaWeb\\FrontEnd\\FE.W\\FE.W.csproj",
       "projectName": "FE.W",
-      "projectPath": "C:\\Users\\sergi\\Desktop\\progra avanzada\\SistemaBombeoArcor_PrograAvanzadaWeb\\FrontEnd\\FE.W\\FE.W.csproj",
-      "packagesPath": "C:\\Users\\sergi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sergi\\Desktop\\progra avanzada\\SistemaBombeoArcor_PrograAvanzadaWeb\\FrontEnd\\FE.W\\obj\\",
+      "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\SistemaBombeoArcor_PrograAvanzadaWeb\\FrontEnd\\FE.W\\FE.W.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\SistemaBombeoArcor_PrograAvanzadaWeb\\FrontEnd\\FE.W\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "J:\\vscomshared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\sergi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8620,8 +8615,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\sergi\\Desktop\\progra avanzada\\SistemaBombeoArcor_PrograAvanzadaWeb\\FrontEnd\\FE\\FE.csproj": {
-              "projectPath": "C:\\Users\\sergi\\Desktop\\progra avanzada\\SistemaBombeoArcor_PrograAvanzadaWeb\\FrontEnd\\FE\\FE.csproj"
+            "C:\\Users\\Admin\\Documents\\GitHub\\SistemaBombeoArcor_PrograAvanzadaWeb\\FrontEnd\\FE\\FE.csproj": {
+              "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\SistemaBombeoArcor_PrograAvanzadaWeb\\FrontEnd\\FE\\FE.csproj"
             }
           }
         }
@@ -8683,7 +8678,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
       }
     }
   }

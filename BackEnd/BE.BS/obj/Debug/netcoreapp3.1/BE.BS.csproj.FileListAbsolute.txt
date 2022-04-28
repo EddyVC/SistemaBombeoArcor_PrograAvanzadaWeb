@@ -42,3 +42,25 @@ C:\Users\sergi\Desktop\progra avanzada\SistemaBombeoArcor_PrograAvanzadaWeb\Back
 C:\Users\sergi\Desktop\progra avanzada\SistemaBombeoArcor_PrograAvanzadaWeb\BackEnd\BE.BS\obj\Debug\netcoreapp3.1\BE.BS.dll
 C:\Users\sergi\Desktop\progra avanzada\SistemaBombeoArcor_PrograAvanzadaWeb\BackEnd\BE.BS\obj\Debug\netcoreapp3.1\BE.BS.pdb
 C:\Users\sergi\Desktop\progra avanzada\SistemaBombeoArcor_PrograAvanzadaWeb\BackEnd\BE.BS\obj\Debug\netcoreapp3.1\BE.BS.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\SistemaBombeoArcor_PrograAvanzadaWeb\BackEnd\BE.BS\bin\Debug\netcoreapp3.1\BE.BS.deps.json
+C:\Users\Admin\Documents\GitHub\SistemaBombeoArcor_PrograAvanzadaWeb\BackEnd\BE.BS\bin\Debug\netcoreapp3.1\BE.BS.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\SistemaBombeoArcor_PrograAvanzadaWeb\BackEnd\BE.BS\bin\Debug\netcoreapp3.1\BE.BS.runtimeconfig.dev.json
+C:\Users\Admin\Documents\GitHub\SistemaBombeoArcor_PrograAvanzadaWeb\BackEnd\BE.BS\bin\Debug\netcoreapp3.1\BE.BS.dll
+C:\Users\Admin\Documents\GitHub\SistemaBombeoArcor_PrograAvanzadaWeb\BackEnd\BE.BS\bin\Debug\netcoreapp3.1\BE.BS.pdb
+C:\Users\Admin\Documents\GitHub\SistemaBombeoArcor_PrograAvanzadaWeb\BackEnd\BE.BS\bin\Debug\netcoreapp3.1\BE.DAL.dll
+C:\Users\Admin\Documents\GitHub\SistemaBombeoArcor_PrograAvanzadaWeb\BackEnd\BE.BS\bin\Debug\netcoreapp3.1\BE.DAL.DO.dll
+C:\Users\Admin\Documents\GitHub\SistemaBombeoArcor_PrograAvanzadaWeb\BackEnd\BE.BS\bin\Debug\netcoreapp3.1\BE.DAL.EF.dll
+C:\Users\Admin\Documents\GitHub\SistemaBombeoArcor_PrograAvanzadaWeb\BackEnd\BE.BS\bin\Debug\netcoreapp3.1\BE.DAL.Repository.dll
+C:\Users\Admin\Documents\GitHub\SistemaBombeoArcor_PrograAvanzadaWeb\BackEnd\BE.BS\bin\Debug\netcoreapp3.1\BE.DAL.DO.pdb
+C:\Users\Admin\Documents\GitHub\SistemaBombeoArcor_PrograAvanzadaWeb\BackEnd\BE.BS\bin\Debug\netcoreapp3.1\BE.DAL.pdb
+C:\Users\Admin\Documents\GitHub\SistemaBombeoArcor_PrograAvanzadaWeb\BackEnd\BE.BS\bin\Debug\netcoreapp3.1\BE.DAL.EF.pdb
+C:\Users\Admin\Documents\GitHub\SistemaBombeoArcor_PrograAvanzadaWeb\BackEnd\BE.BS\bin\Debug\netcoreapp3.1\BE.DAL.Repository.pdb
+C:\Users\Admin\Documents\GitHub\SistemaBombeoArcor_PrograAvanzadaWeb\BackEnd\BE.BS\obj\Debug\netcoreapp3.1\BE.BS.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\SistemaBombeoArcor_PrograAvanzadaWeb\BackEnd\BE.BS\obj\Debug\netcoreapp3.1\BE.BS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\SistemaBombeoArcor_PrograAvanzadaWeb\BackEnd\BE.BS\obj\Debug\netcoreapp3.1\BE.BS.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\SistemaBombeoArcor_PrograAvanzadaWeb\BackEnd\BE.BS\obj\Debug\netcoreapp3.1\BE.BS.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\SistemaBombeoArcor_PrograAvanzadaWeb\BackEnd\BE.BS\obj\Debug\netcoreapp3.1\BE.BS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\SistemaBombeoArcor_PrograAvanzadaWeb\BackEnd\BE.BS\obj\Debug\netcoreapp3.1\BE.BS.csproj.CopyComplete
+C:\Users\Admin\Documents\GitHub\SistemaBombeoArcor_PrograAvanzadaWeb\BackEnd\BE.BS\obj\Debug\netcoreapp3.1\BE.BS.dll
+C:\Users\Admin\Documents\GitHub\SistemaBombeoArcor_PrograAvanzadaWeb\BackEnd\BE.BS\obj\Debug\netcoreapp3.1\BE.BS.pdb
+C:\Users\Admin\Documents\GitHub\SistemaBombeoArcor_PrograAvanzadaWeb\BackEnd\BE.BS\obj\Debug\netcoreapp3.1\BE.BS.genruntimeconfig.cache

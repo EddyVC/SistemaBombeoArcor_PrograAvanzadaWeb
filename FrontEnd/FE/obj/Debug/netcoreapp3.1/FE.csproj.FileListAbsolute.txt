@@ -56,17 +56,6 @@ C:\Users\Admin\Documents\GitHub\SistemaBombeoArcor_PrograAvanzadaWeb\FrontEnd\FE
 C:\Users\Admin\Documents\GitHub\SistemaBombeoArcor_PrograAvanzadaWeb\FrontEnd\FE\obj\Debug\netcoreapp3.1\Razor\Views\Provincias\Details.cshtml.g.cs
 C:\Users\Admin\Documents\GitHub\SistemaBombeoArcor_PrograAvanzadaWeb\FrontEnd\FE\obj\Debug\netcoreapp3.1\Razor\Views\Provincias\Edit.cshtml.g.cs
 C:\Users\Admin\Documents\GitHub\SistemaBombeoArcor_PrograAvanzadaWeb\FrontEnd\FE\obj\Debug\netcoreapp3.1\Razor\Views\Provincias\Index.cshtml.g.cs
-C:\Users\Admin\Documents\GitHub\SistemaBombeoArcor_PrograAvanzadaWeb\FrontEnd\FE\obj\Debug\netcoreapp3.1\Razor\Views\Instaladors\Create.cshtml.g.cs
-C:\Users\Admin\Documents\GitHub\SistemaBombeoArcor_PrograAvanzadaWeb\FrontEnd\FE\obj\Debug\netcoreapp3.1\Razor\Views\Instaladors\Delete.cshtml.g.cs
-C:\Users\Admin\Documents\GitHub\SistemaBombeoArcor_PrograAvanzadaWeb\FrontEnd\FE\obj\Debug\netcoreapp3.1\Razor\Views\Instaladors\Details.cshtml.g.cs
-C:\Users\Admin\Documents\GitHub\SistemaBombeoArcor_PrograAvanzadaWeb\FrontEnd\FE\obj\Debug\netcoreapp3.1\Razor\Views\Instaladors\Edit.cshtml.g.cs
-C:\Users\Admin\Documents\GitHub\SistemaBombeoArcor_PrograAvanzadaWeb\FrontEnd\FE\obj\Debug\netcoreapp3.1\Razor\Views\Instaladors\Index.cshtml.g.cs
-C:\Users\Admin\Documents\GitHub\SistemaBombeoArcor_PrograAvanzadaWeb\FrontEnd\FE\obj\Debug\netcoreapp3.1\Razor\Views\Productos\Create.cshtml.g.cs
-C:\Users\Admin\Documents\GitHub\SistemaBombeoArcor_PrograAvanzadaWeb\FrontEnd\FE\obj\Debug\netcoreapp3.1\Razor\Views\Productos\Delete.cshtml.g.cs
-C:\Users\Admin\Documents\GitHub\SistemaBombeoArcor_PrograAvanzadaWeb\FrontEnd\FE\obj\Debug\netcoreapp3.1\Razor\Views\Productos\Details.cshtml.g.cs
-C:\Users\Admin\Documents\GitHub\SistemaBombeoArcor_PrograAvanzadaWeb\FrontEnd\FE\obj\Debug\netcoreapp3.1\Razor\Views\Productos\Edit.cshtml.g.cs
-C:\Users\Admin\Documents\GitHub\SistemaBombeoArcor_PrograAvanzadaWeb\FrontEnd\FE\obj\Debug\netcoreapp3.1\Razor\Views\Productos\Index.cshtml.g.cs
-C:\Users\Admin\Documents\GitHub\SistemaBombeoArcor_PrograAvanzadaWeb\FrontEnd\FE\obj\Debug\netcoreapp3.1\FE.csproj.AssemblyReference.cache
 C:\Users\sergi\Desktop\progra avanzada\SistemaBombeoArcor_PrograAvanzadaWeb\FrontEnd\FE\obj\Debug\netcoreapp3.1\FE.csproj.AssemblyReference.cache
 C:\Users\sergi\Desktop\progra avanzada\SistemaBombeoArcor_PrograAvanzadaWeb\FrontEnd\FE\obj\Debug\netcoreapp3.1\FE.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\sergi\Desktop\progra avanzada\SistemaBombeoArcor_PrograAvanzadaWeb\FrontEnd\FE\obj\Debug\netcoreapp3.1\FE.AssemblyInfoInputs.cache
@@ -144,3 +133,24 @@ C:\Users\sergi\Desktop\progra avanzada\SistemaBombeoArcor_PrograAvanzadaWeb\Fron
 C:\Users\sergi\Desktop\progra avanzada\SistemaBombeoArcor_PrograAvanzadaWeb\FrontEnd\FE\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Details.cshtml.g.cs
 C:\Users\sergi\Desktop\progra avanzada\SistemaBombeoArcor_PrograAvanzadaWeb\FrontEnd\FE\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Edit.cshtml.g.cs
 C:\Users\sergi\Desktop\progra avanzada\SistemaBombeoArcor_PrograAvanzadaWeb\FrontEnd\FE\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Index.cshtml.g.cs
+C:\Users\Admin\Documents\GitHub\SistemaBombeoArcor_PrograAvanzadaWeb\FrontEnd\FE\obj\Debug\netcoreapp3.1\Razor\Views\Detalleventa\Create.cshtml.g.cs
+C:\Users\Admin\Documents\GitHub\SistemaBombeoArcor_PrograAvanzadaWeb\FrontEnd\FE\obj\Debug\netcoreapp3.1\Razor\Views\Detalleventa\Delete.cshtml.g.cs
+C:\Users\Admin\Documents\GitHub\SistemaBombeoArcor_PrograAvanzadaWeb\FrontEnd\FE\obj\Debug\netcoreapp3.1\Razor\Views\Detalleventa\Details.cshtml.g.cs
+C:\Users\Admin\Documents\GitHub\SistemaBombeoArcor_PrograAvanzadaWeb\FrontEnd\FE\obj\Debug\netcoreapp3.1\Razor\Views\Detalleventa\Edit.cshtml.g.cs
+C:\Users\Admin\Documents\GitHub\SistemaBombeoArcor_PrograAvanzadaWeb\FrontEnd\FE\obj\Debug\netcoreapp3.1\Razor\Views\Detalleventa\Index.cshtml.g.cs
+C:\Users\Admin\Documents\GitHub\SistemaBombeoArcor_PrograAvanzadaWeb\FrontEnd\FE\obj\Debug\netcoreapp3.1\Razor\Views\Instalador\Create.cshtml.g.cs
+C:\Users\Admin\Documents\GitHub\SistemaBombeoArcor_PrograAvanzadaWeb\FrontEnd\FE\obj\Debug\netcoreapp3.1\Razor\Views\Instalador\Delete.cshtml.g.cs
+C:\Users\Admin\Documents\GitHub\SistemaBombeoArcor_PrograAvanzadaWeb\FrontEnd\FE\obj\Debug\netcoreapp3.1\Razor\Views\Instalador\Details.cshtml.g.cs
+C:\Users\Admin\Documents\GitHub\SistemaBombeoArcor_PrograAvanzadaWeb\FrontEnd\FE\obj\Debug\netcoreapp3.1\Razor\Views\Instalador\Edit.cshtml.g.cs
+C:\Users\Admin\Documents\GitHub\SistemaBombeoArcor_PrograAvanzadaWeb\FrontEnd\FE\obj\Debug\netcoreapp3.1\Razor\Views\Instalador\Index.cshtml.g.cs
+C:\Users\Admin\Documents\GitHub\SistemaBombeoArcor_PrograAvanzadaWeb\FrontEnd\FE\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Create.cshtml.g.cs
+C:\Users\Admin\Documents\GitHub\SistemaBombeoArcor_PrograAvanzadaWeb\FrontEnd\FE\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Delete.cshtml.g.cs
+C:\Users\Admin\Documents\GitHub\SistemaBombeoArcor_PrograAvanzadaWeb\FrontEnd\FE\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Details.cshtml.g.cs
+C:\Users\Admin\Documents\GitHub\SistemaBombeoArcor_PrograAvanzadaWeb\FrontEnd\FE\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Edit.cshtml.g.cs
+C:\Users\Admin\Documents\GitHub\SistemaBombeoArcor_PrograAvanzadaWeb\FrontEnd\FE\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Index.cshtml.g.cs
+C:\Users\Admin\Documents\GitHub\SistemaBombeoArcor_PrograAvanzadaWeb\FrontEnd\FE\obj\Debug\netcoreapp3.1\Razor\Views\Ventas\Create.cshtml.g.cs
+C:\Users\Admin\Documents\GitHub\SistemaBombeoArcor_PrograAvanzadaWeb\FrontEnd\FE\obj\Debug\netcoreapp3.1\Razor\Views\Ventas\Delete.cshtml.g.cs
+C:\Users\Admin\Documents\GitHub\SistemaBombeoArcor_PrograAvanzadaWeb\FrontEnd\FE\obj\Debug\netcoreapp3.1\Razor\Views\Ventas\Details.cshtml.g.cs
+C:\Users\Admin\Documents\GitHub\SistemaBombeoArcor_PrograAvanzadaWeb\FrontEnd\FE\obj\Debug\netcoreapp3.1\Razor\Views\Ventas\Edit.cshtml.g.cs
+C:\Users\Admin\Documents\GitHub\SistemaBombeoArcor_PrograAvanzadaWeb\FrontEnd\FE\obj\Debug\netcoreapp3.1\Razor\Views\Ventas\Index.cshtml.g.cs
+C:\Users\Admin\Documents\GitHub\SistemaBombeoArcor_PrograAvanzadaWeb\FrontEnd\FE\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout - Copy.cshtml.g.cs
