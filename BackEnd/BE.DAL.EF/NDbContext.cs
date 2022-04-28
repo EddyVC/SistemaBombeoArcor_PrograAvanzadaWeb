@@ -216,9 +216,11 @@ namespace BE.DAL.EF
                 entity.HasKey(e => e.Iddetalleventa)
                     .HasName("PK__VENTA__2849CB579CB150EC");
 
-                entity.Property(e => e.Idventa).HasColumnName("IDVENTA");
+                entity.Property(e => e.Idventa)
+                    .IsRequired();
 
-                entity.Property(e => e.Idproducto).HasColumnName("IDPRODUCTO");
+                entity.Property(e => e.Idproducto)
+                    .IsRequired();
 
                 entity.Property(e => e.Cantidad)
                     .IsRequired();
