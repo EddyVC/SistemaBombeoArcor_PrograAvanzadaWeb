@@ -36,7 +36,7 @@
             </div>
             <div class="form-group">
                 <label asp-for="Idcategoria" class="control-label"></label>
-                <input asp-for="Idcategoria" class="form-control"/>
+                <select asp-for="Idcategoria" class="form-control" asp-items="ViewBag.Idcategoria"></select>
                 <span asp-validation-for="Idcategoria" class="text-danger"></span>
             </div>
             <div class="form-group">
@@ -51,7 +51,7 @@
             </div>
             <div class="form-group">
                 <label asp-for="Idmarca" class="control-label"></label>
-                <input asp-for="Idmarca" class="form-control"/>
+                <select asp-for="Idmarca" class="form-control" asp-items="ViewBag.Idmarca"></select>
                 <span asp-validation-for="Idmarca" class="text-danger"></span>
             </div>
             <div class="form-group">

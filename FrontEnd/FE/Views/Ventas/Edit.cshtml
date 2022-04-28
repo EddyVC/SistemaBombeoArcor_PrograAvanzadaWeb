@@ -16,7 +16,7 @@
             <input type="hidden" asp-for="Idventa" />
             <div class="form-group">
                 <label asp-for="Idusuario" class="control-label"></label>
-                <input asp-for="Idusuario" class="form-control"/>
+                <select asp-for="Idusuario" class="form-control" asp-items="ViewBag.Idusuario"></select>
                 <span asp-validation-for="Idusuario" class="text-danger"></span>
             </div>
             <div class="form-group">

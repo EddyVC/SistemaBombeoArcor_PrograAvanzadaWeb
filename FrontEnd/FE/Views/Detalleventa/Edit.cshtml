@@ -16,12 +16,12 @@
             <input type="hidden" asp-for="Iddetalleventa" />
             <div class="form-group">
                 <label asp-for="Idventa" class="control-label"></label>
-                <input asp-for="Idventa" class="form-control"/>
+                <select asp-for="Idventa" class="form-control" asp-items="ViewBag.Idventa"></select>
                 <span asp-validation-for="Idventa" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="Idproducto" class="control-label"></label>
-                <input asp-for="Idproducto" class="form-control"/>
+                <select asp-for="Idproducto" class="form-control" asp-items="ViewBag.Idproducto"></select>
                 <span asp-validation-for="Idproducto" class="text-danger"></span>
             </div>
             <div class="form-group">
